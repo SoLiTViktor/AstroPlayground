@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4aa9d12d54fea06458818e74c412f682, type: 3}
+  m_Name: EffectPoolingObjectsData
+  m_EditorClassIdentifier: 
+  _wrongRequestItem:
+    _type: 0
+    _instantiatePrefab: {fileID: 0}
+    _amountToPool: 0
+  _poolingObjectItems:
+  - _type: 200
+    _instantiatePrefab: {fileID: 6261694330839773138, guid: cf34714ff35033b49b315a49454e685e, type: 3}
+    _amountToPool: 40
+  - _type: 201
+    _instantiatePrefab: {fileID: 8295176789010484207, guid: 50be889ce6af3e644bee82fba07056e7, type: 3}
+    _amountToPool: 40

@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 0
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4aa9d12d54fea06458818e74c412f682, type: 3}
+  m_Name: EnemyPoolingObjectData
+  m_EditorClassIdentifier: 
+  _wrongRequestItem:
+    _type: 0
+    _instantiatePrefab: {fileID: 0}
+    _amountToPool: 1
+  _poolingObjectItems:
+  - _type: 1
+    _instantiatePrefab: {fileID: 862438754113616743, guid: 2dee4e7eb5e7ab24c8ddae032fb1066f, type: 3}
+    _amountToPool: 15
+  - _type: 2
+    _instantiatePrefab: {fileID: 6831668400169625353, guid: 9519a0e971ec8c34e87a660ef5b35f49, type: 3}
+    _amountToPool: 15
+  - _type: 3
+    _instantiatePrefab: {fileID: 6823803979137986435, guid: 1a17a5f922edeaa409212ac918dfaf45, type: 3}
+    _amountToPool: 15
+  - _type: 4
+    _instantiatePrefab: {fileID: 2705362461167895048, guid: 4cc1e310211391441b6ff017856c33a4, type: 3}
+    _amountToPool: 15
+  - _type: 5
+    _instantiatePrefab: {fileID: 3448494307508314311, guid: 40d189a67c40cb345af421defc61fbd2, type: 3}
+    _amountToPool: 15
+  - _type: 50
+    _instantiatePrefab: {fileID: 7121036009821180838, guid: eecfd02a61887754abfe05a91bfde496, type: 3}
+    _amountToPool: 20
+  - _type: 51
+    _instantiatePrefab: {fileID: 5211018705124000752, guid: 71122bc2b688f59488756ca53f6e6402, type: 3}
+    _amountToPool: 20
+  - _type: 52
+    _instantiatePrefab: {fileID: 5528658074795947878, guid: 217ec7f0b47eab8498c530a6fe2d91b7, type: 3}
+    _amountToPool: 20
+  - _type: 53
+    _instantiatePrefab: {fileID: 4232182567904938857, guid: 6d15105024f02a542a59a1007d6ca9c5, type: 3}
+    _amountToPool: 20
+  - _type: 100
+    _instantiatePrefab: {fileID: 2453761149584297721, guid: 347b44a1373c77f4195c320a7c9d6673, type: 3}
+    _amountToPool: 10

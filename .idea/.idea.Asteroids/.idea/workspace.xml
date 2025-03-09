@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e62cd13e-48d1-4e42-8ec7-26183b5ff59b" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Asteroids/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Asteroids/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Asteroids Project/Scripts/Enemies/Asteroid.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Asteroids Project/Scripts/Enemies/Asteroid.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Firebase/Plugins/x86_64/FirebaseCppApp-12_5_0.bundle.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Firebase/Plugins/x86_64/FirebaseCppApp-12_5_0.bundle.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Firebase/Plugins/x86_64/FirebaseCppApp-12_5_0.so.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Firebase/Plugins/x86_64/FirebaseCppApp-12_5_0.so.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Android/FirebaseApp.androidlib/res/values/google-services.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Android/FirebaseApp.androidlib/res/values/google-services.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Settings/UniversalRP.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Settings/UniversalRP.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Fonts &amp; Materials/LiberationSans SDF - Fallback.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Fonts &amp; Materials/LiberationSans SDF - Fallback.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/packages-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/packages-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectVersion.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectVersion.txt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/10871f9e312b442cb78b9b97db88fdcb172a00/11/b183a851/Object.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/10871f9e312b442cb78b9b97db88fdcb172a00/81/069c9600/TextAsset.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectId" id="2osp3pTNeAyHW1Tk8csPeFssGtb" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;rider.external.source.directories&quot;: [
+      &quot;C:\\Users\\Sulimann\\AppData\\Roaming\\JetBrains\\Rider2023.1\\resharper-host\\DecompilerCache&quot;,
+      &quot;C:\\Users\\Sulimann\\AppData\\Roaming\\JetBrains\\Rider2023.1\\resharper-host\\SourcesCache&quot;,
+      &quot;C:\\Users\\Sulimann\\AppData\\Local\\Symbols\\src&quot;
+    ]
+  }
+}</component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Start Unity" type="RunUnityExe" factoryName="Unity Executable">
+      <option name="EXE_PATH" value="C:\Unity\2022.3.9f1\Editor\Unity.exe" />
+      <option name="PROGRAM_PARAMETERS" value="-projectPath E:\UnityProjects\IlyaSmolin\Asteroids -debugCodeOptimization" />
+      <option name="WORKING_DIRECTORY" value="E:\UnityProjects\IlyaSmolin\Asteroids" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unit Tests (batch mode)" type="RunUnityExe" factoryName="Unity Executable">
+      <option name="EXE_PATH" value="C:\Unity\2022.3.9f1\Editor\Unity.exe" />
+      <option name="PROGRAM_PARAMETERS" value="-runTests -batchmode -projectPath E:\UnityProjects\IlyaSmolin\Asteroids -testResults Logs/results.xml -testPlatform EditMode -debugCodeOptimization" />
+      <option name="WORKING_DIRECTORY" value="E:\UnityProjects\IlyaSmolin\Asteroids" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="projectPathOnTarget" />
+      <option name="selectedOptions">
+        <list />
+      </option>
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="projectPathOnTarget" />
+      <option name="selectedOptions">
+        <list />
+      </option>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e62cd13e-48d1-4e42-8ec7-26183b5ff59b" name="Changes" comment="" />
+      <created>1731667940417</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1731667940417</updated>
+      <workItem from="1731667941430" duration="2454000" />
+      <workItem from="1732722362011" duration="1348000" />
+      <workItem from="1733752754778" duration="1753000" />
+      <workItem from="1734491227831" duration="4767000" />
+      <workItem from="1734792369898" duration="1680000" />
+      <workItem from="1734873143674" duration="1785000" />
+      <workItem from="1735018996021" duration="640000" />
+      <workItem from="1735199089912" duration="639000" />
+      <workItem from="1735206611870" duration="690000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="Both" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Assets/Asteroids Project/Infrastructure/LocationInstaller.cs</url>
+          <line>15</line>
+          <properties documentPath="E:\UnityProjects\IlyaSmolin\Asteroids\Assets\Asteroids Project\Infrastructure\LocationInstaller.cs" initialLine="14" containingFunctionPresentation="Method 'BindPlayer'" />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Assets/Asteroids Project/Scripts/Weapon/Bullet.cs</url>
+          <line>12</line>
+          <properties documentPath="E:\UnityProjects\IlyaSmolin\Asteroids\Assets\Asteroids Project\Scripts\Weapon\Bullet.cs" initialLine="12" containingFunctionPresentation="Method 'Construct'">
+            <startOffsets>
+              <option value="250" />
+            </startOffsets>
+            <endOffsets>
+              <option value="274" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Assets/Asteroids Project/Scripts/Installers/GlobalInstaller.cs</url>
+          <line>20</line>
+          <properties documentPath="E:\UnityProjects\IlyaSmolin\Asteroids\Assets\Asteroids Project\Scripts\Installers\GlobalInstaller.cs" initialLine="20" containingFunctionPresentation="Method 'BindGameCoreData'">
+            <startOffsets>
+              <option value="516" />
+            </startOffsets>
+            <endOffsets>
+              <option value="517" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <breakpoint enabled="true" type="DotNet Exception Breakpoints">
+          <properties exception="System.NullReferenceException" isInternal="false" displayValue="NullReferenceException" namespaceName="System">
+            <option name="internal" value="false" />
+          </properties>
+          <option name="timeStamp" value="3" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

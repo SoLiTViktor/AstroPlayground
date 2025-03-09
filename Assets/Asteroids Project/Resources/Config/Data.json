@@ -1,0 +1,58 @@
+{
+  "PlayerData": {
+    "MaxLivesCount": 3,
+    "MovingSpeed": 0.02,
+    "RotationSpeed": 2.0,
+    "StunDuration": 3.0,
+    "ShieldDuration": 5.0
+  },
+  "WeaponData": {
+    "LazerGunMaxAmmoCount": 3,
+    "LazerGunRecharge": 15.0,
+    "LazerActivateDuration": 1.5,
+    "BulletSpeed": 5
+  },
+  "EnemySpawnerData": {
+    "ScreenOffset": 2.0,
+    "ScaleInEnable": 0.1,
+    "ScaledDuration": 1.0
+  },
+  "BigAsteroidSpawnerData": {
+    "AsteroidSpawnDuration": 1.5,
+    "Min3dAxisTorque": -1,
+    "Max3dAxisTorque": 1,
+    "MinStartingPushForce": 0.5,
+    "MaxStartingPushForce": 3.0
+  },
+  "SmallAsteroidSpawnerData": {
+    "MinAsteroidCreateCount": 2,
+    "MaxAsteroidCreateCount": 4,
+    "MinMovingDirectionValue": -1.0,
+    "MaxMovingDirectionValue": 1.0,
+    "MinStartingPushForce": 1.0,
+    "MaxStartingPushForce": 4.0,
+    "Min3dAxisTorque": -1,
+    "Max3dAxisTorque": 1
+  },
+  "DroidSpawnerData": {
+    "DroidMinDelaySpawn": 2.5,
+    "DroidMaxDelaySpawn": 10.0
+  },
+  "DroidData": {
+    "MoveSpeed": 0.012,
+    "RotateSpeed": 0.5,
+    "ModelTorque": 8.0,
+    "SelfExplodeDelayMilliseconds": 30
+  },
+  "AsteroidData": [
+    {
+      "EnemyType": 1,
+      "PermanentSpeed": 0.001
+    },
+    {
+      "EnemyType": 2,
+      "PermanentSpeed": 0.0013
+    }
+  ],
+  "PlayfieldOffset": 3.0
+}

@@ -1,0 +1,18 @@
+{
+    "name": "Newasmdefjoystick",
+    "rootNamespace": "",
+    "references": [
+        "GUID:c8a848ff45f992a43bd72365efd317f2"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

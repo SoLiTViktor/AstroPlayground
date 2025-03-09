@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "587266044306",
+    "project_id": "asteroids-cdfea",
+    "storage_bucket": "asteroids-cdfea.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:587266044306:android:383b853163705d879c514b",
+        "android_client_info": {
+          "package_name": "com.SolitV.Astro"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhbDCbfdAdOvyPQGWIqsufDaHTYXfd4CY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
